@@ -9,7 +9,6 @@ Ch 8
 
 - [X] <a href = "https://github.com/MysticMania/test-git/blob/master/words.rb"> Building and Sorting an Array </a>   
 - [ ] Table of Contents, Revisited
-- [ ]  
 
 Ch 9 
 --------------
