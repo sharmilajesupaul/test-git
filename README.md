@@ -1,8 +1,28 @@
 test-git
 ========
 
-Mainly features exercises from Chris Pine's <a href = "https://pine.fm/LearnToProgram/"> Learn to Program: 2nd Edition </a>
+>Mainly features exercises from Chris Pine's <a href = "https://pine.fm/LearnToProgram/"> Learn to Program: 2nd Edition </a>
 
-So far, I have added: 
-1. Words Ch8 Q1 
-2. Roman Numerals Ch9 Q3
+
+Ch 8
+----------
+
+- [X] <a href = "https://github.com/MysticMania/test-git/blob/master/words.rb"> Building and Sorting an Array </a>   
+- [ ] Table of Contents, Revisited
+- [ ]  
+
+Ch 9 
+--------------
+
+- [ ] Improved ask Method
+- [ ] Old-School Roman Numerals 
+- [X] <a href = "https://github.com/MysticMania/test-git/blob/master/roman_numerals.rb"> “Modern” Roman Numerals </a>
+
+Ch 10 
+------------
+
+- [ ] Rite of Passage: Sorting
+- [ ] Shuffle
+- [ ] Dictionary Sort
+- [ ] Expanded english_number 
+- [ ] “Ninety-nine Bottles of Beer on the Wall.”
